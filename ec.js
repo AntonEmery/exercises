@@ -1,6 +1,6 @@
 /* 
 Anton Emery
-Extra Credit - Apartment Therapy Dev position
+Extra Credit - Apartment Therapy Jr Front End Engineer position
 */
 
 var code = 'Fraq hf gur pbqr lbh hfrq gb qrpbqr guvf zrffntr';
